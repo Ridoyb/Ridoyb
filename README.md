@@ -29,7 +29,7 @@ Skills: HTML/ CSS/ Bootstrap/ Tailwind/ JavaScript/ ES6/ React/ React Router/ Re
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridoyb&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ridoyb)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ridoyb) 
 
 ![GitHub metrics](https://metrics.lecoq.io/Ridoyb)  
 
