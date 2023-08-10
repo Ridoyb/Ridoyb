@@ -1,6 +1,6 @@
 ![I am a MERN STACK DEVELOPER.](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
 ### Hi there 👋, I'm Ridoy
-#### I am a MERN STACK DEVELOPER.
+#### I am a SQA Engineer & Web Developer.
 
 
 Experienced Web Design and Development with a demonstrated history of working in the internet industry. Skilled in HTML, CSS, Boostrap, Tailwind, DaisyUi, Javascript, ReactJs,Node.js, Firebase Authentication, MongoDB, Search Engine Optimization (SEO), E-commerce, WordPress, and Web Design. and completed a large number of web projects at various marketplaces.
