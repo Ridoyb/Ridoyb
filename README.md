@@ -26,6 +26,16 @@ Reporting using test management tools
 - Performance Testing Tool: JMeter
 - Source and Version Control: Git
 
+- Manual Testing: Requirement Analysis, Test Planning, Designing, Writing, and Reviewing Test
+Cases, Test Execution and Evaluation, Creating Test Reports, Root cause analysis &amp; Bug
+Reporting using test management tools
+- 🌱 Ask me about  Manual Testing, API Testing 
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Anyone 
+- 💬 Ask me about SQA & Web development 
+- 📫 How to reach me: ridoyb548@gmail.com 
+- ⚡ Fun fact: I am funny............... 
+
 <h3>Skills in WEB:</h3>
 
 HTML/ CSS/ Bootstrap/ Tailwind/ JavaScript/ ES6/ React/ React Router/ React Bootstrap/ WordPress/ Woo-commerce/ Shopify/ WIX/ Node.js/ Express.js/ MongoDB/ Rest API/ Context API/ Firebase authentication/  TypeScript/ Redux/ DaisyUI/ Material UI/ Webpack/ Git/ VS Code/ Chrome Dev Tools/ GitHub/ Netlify/ Firebase/ Vercel
