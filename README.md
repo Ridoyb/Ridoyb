@@ -14,17 +14,17 @@
 Experienced Web Design and Development with a demonstrated history of working in the internet industry. Skilled in HTML, CSS, Bootstrap, Tailwind, DaisyUi, Javascript, ReactJs,Node.js, Firebase Authentication, MongoDB, Search Engine Optimization (SEO), E-commerce, WordPress, and Web Design. and completed a large number of web projects at various marketplaces.
 
 <h3>Skills in SQA:</h3>
- Manual Testing: Requirement Analysis, Test Planning, Designing, Writing, and Reviewing Test
+- Manual Testing: Requirement Analysis, Test Planning, Designing, Writing, and Reviewing Test
 Cases, Test Execution and Evaluation, Creating Test Reports, Root cause analysis &amp; Bug
 Reporting using test management tools
- API Testing Tool: Postman &amp; Newman
- Agile Methodology and Project Management Tool: Jira
- Security Testing Tool: Nmap
- Concepts: SDLC, STLC, OOP
- Programming Language: JAVASCRIPT, Python
- Database: MySQL
- Performance Testing Tool: JMeter
- Source and Version Control: Git
+- API Testing Tool: Postman &amp; Newman
+- Agile Methodology and Project Management Tool: Jira
+- Security Testing Tool: Nmap
+- Concepts: SDLC, STLC, OOP
+- Programming Language: JAVASCRIPT, Python
+- Database: MySQL
+- Performance Testing Tool: JMeter
+- Source and Version Control: Git
 
 <h3>Skills in WEB:</h3>
 
