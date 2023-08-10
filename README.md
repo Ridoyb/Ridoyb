@@ -1,4 +1,22 @@
 ![I am a MERN STACK DEVELOPER.](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrahimhossaincse43&label=Profile%20views&color=0e75b6&style=flat" alt="ebrahimhossaincse43" /> </p>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Md.+Ebrahim+Hossain" />
+</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
+
+- 🔭 I’m currently working on **Automation, Manual and API Testing**
+
+- 💬 Ask me about **Automation Testing, Manual Testing, API Testing**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:ebrahimhossaincse43@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/mdebrahimhossain/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ### Hi there 👋, I'm Ridoy
 #### I am a SQA Engineer & Web Developer.
 
