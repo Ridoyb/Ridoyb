@@ -11,7 +11,7 @@
                                                                             
 
 
-Experienced Web Design and Development with a demonstrated history of working in the internet industry. Skilled in HTML, CSS, Bootstrap, Tailwind, DaisyUi, Javascript, ReactJs,Node.js, Firebase Authentication, MongoDB, Search Engine Optimization (SEO), E-commerce, WordPress, and Web Design. and completed a large number of web projects at various marketplaces.
+ A dedicated Software Quality Assurance (SQA) Engineer and proficient MERN Stack Developer passionate about crafting seamless digital experiences. With a keen eye for detail and a solid commitment to delivering top-notch software, I thrive in ensuring robust functionality and exceptional user experiences.
 
 <h3>Skills in SQA:</h3>
 
